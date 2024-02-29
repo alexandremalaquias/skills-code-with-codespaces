@@ -6,6 +6,7 @@
 
   "remoteUser": "codespace",
   "overrideCommand": false
+  ,
   "customizations": {
     "vscode": {
         "extensions": [
